@@ -1,4 +1,4 @@
-# ShipCaptainCrew
+# Ship Captain Crew
 "Ship, Captain, Crew" is a dice game that involves rolling five dice to achieve specific combinations. The goal is to roll the dice in such a way as to get the highest possible score based on certain criteria. Here are the basic rules for the game:
 
 ## Objective: 
